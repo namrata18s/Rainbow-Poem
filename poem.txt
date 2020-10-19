@@ -8,6 +8,7 @@ pony
 indigo
 Earth day is a day.
 Recycle is good for earth health.
+reduce plastic
 green
 grey
 maroon
