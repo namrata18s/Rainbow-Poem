@@ -1,8 +1,10 @@
-The Rainbow
+The Rainbow and the unicorn
 orange
 red
 black
 blue
+unicorn
 green
 grey
 maroon
+These are the colors of the rainbow and the unicorn.
