@@ -6,8 +6,12 @@ blue
 unicorn
 pony
 indigo
+Earth day is a day.
+Recycle is good for earth health.
+reduce plastic
 green
 grey
 maroon
 These are the colors of the rainbow and the unicorn.
 And pony.
+commit please.
