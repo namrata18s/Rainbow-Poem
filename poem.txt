@@ -6,6 +6,8 @@ blue
 unicorn
 pony
 indigo
+Earth day is a day.
+Recycle is good for earth health.
 green
 grey
 maroon
