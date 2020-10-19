@@ -4,6 +4,7 @@ red
 black
 blue
 unicorn
+indigo
 green
 grey
 maroon
